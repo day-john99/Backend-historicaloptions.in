@@ -1,0 +1,17 @@
+
+Deployed
+
+*1)HOME PAGE :
+https://hardy-antonym-424411-h8.el.r.appspot.com
+
+*2)EXPIRIES DATE PAGE:
+https://hardy-antonym-424411-h8.el.r.appspot.com/api/expiries
+
+*3)strikes page:
+https://hardy-antonym-424411-h8.el.r.appspot.com/api/strikes?expiry=24-Jun-2021&right0=call
+
+*4)price page:
+https://hardy-antonym-424411-h8.el.r.appspot.com/api/price?expiry=24-Jun-2021&right1=call&strike=33700
+
+
+
